@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'typeaheadsearch';
+  title = 'Type-Ahead Search for Countries';
+  text = 'akashsingh41';
 }
